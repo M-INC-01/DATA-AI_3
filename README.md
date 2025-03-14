@@ -47,4 +47,4 @@ Il modello **DATA-AI_Chat_3_0.5B** è disponibile in più formati per garantire 
 ### ▶ **Esempio di utilizzo con Ollama**  
 Dopo aver installato [Ollama](https://ollama.ai/), eseguire:  
 ```bash
-ollama run DATA-AI_3_0.5B
+ollama run M_INC/DATA-AI_3_0.5B
