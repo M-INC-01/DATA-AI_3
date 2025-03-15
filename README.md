@@ -49,5 +49,6 @@ Dopo aver installato [Ollama](https://ollama.ai/), eseguire:
 ```bash
 ollama run M_INC/DATA-AI_3_0.5B
 ```
+oppure (per il modello da 1.5B):
 ```bash
 ollama run M_INC/DATA-AI_3_1.5B
