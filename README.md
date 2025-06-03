@@ -28,9 +28,9 @@ Abbiamo condotto un'analisi comparativa del nostro modello rispetto a diverse al
 - **Fluidità** 🌊  
 - **Riduzione delle ripetizioni** 🔄
   
-![[Grafico a Colonne](./DATA-AI_3_Graphic1.jng)]
+![[Grafico a Colonne](./DATA-AI_Graphic1.jpg)]
 
-![[Grafico Radar](./DATA-AI_3_Graphic2.jng)]
+![[Grafico Radar](./DATA-AI_Graphic2.jng)]
 I risultati hanno dimostrato che **DATA-AI_Chat_3_0.5B_Q4_K_M** si distingue per la sua capacità di generare testi più creativi e coerenti rispetto ai competitor.  
 
 ---
