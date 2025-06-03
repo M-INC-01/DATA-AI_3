@@ -28,9 +28,9 @@ Abbiamo condotto un'analisi comparativa del nostro modello rispetto a diverse al
 - **Fluidità** 🌊  
 - **Riduzione delle ripetizioni** 🔄
   
-![[Grafico a Colonne](./DATA-AI_Graphic.jng)](https://github.com/M-INC-01/DATA-AI_4/blob/main/DATA-AI_Graphic.jpg)
+![[Grafico a Colonne](./DATA-AI_Graphic1.jng)]([https://github.com/M-INC-01/DATA-AI_4/blob/main/DATA-AI_Graphic.jpg](https://github.com/M-INC-01/DATA-AI_3/blob/main/DATA-AI_Graphic1.jpg))
 
-![[Grafico Radar](./DATA-AI4_Graphic2.jng)](https://github.com/M-INC-01/DATA-AI_4/blob/main/DATA-AI_Graphic2.jpg)
+![[Grafico Radar](./DATA-AI4_Graphic2.jng)]([https://github.com/M-INC-01/DATA-AI_4/blob/main/DATA-AI_Graphic2.jpg](https://github.com/M-INC-01/DATA-AI_3/blob/main/DATA-AI_Graphic2.jpg))
 I risultati hanno dimostrato che **DATA-AI_Chat_3_0.5B_Q4_K_M** si distingue per la sua capacità di generare testi più creativi e coerenti rispetto ai competitor.  
 
 ---
