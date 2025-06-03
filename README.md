@@ -19,19 +19,20 @@ Il nostro modello più recente, **DATA-AI_Chat_3_0.5B_Q4_K_M**, è il frutto di 
 ✔ **Riduzione delle ripetizioni** per generazioni di testo più pulite e coerenti.  
 ✔ **Supporto multi-formato**, con versioni compatibili per diverse piattaforme AI.  
 
-### 📊 **Benchmark & Prestazioni**  
-Abbiamo condotto un'analisi comparativa del nostro modello rispetto a diverse alternative sul mercato, valutando le prestazioni secondo questi parametri:  
+### 📊 **Benchmark & Prestazioni**
+Abbiamo condotto un'analisi comparativa del nostro modello rispetto a diverse alternative sul mercato, valutando le prestazioni secondo questi parametri:
 
 - **Creatività** 🎨  
 - **Correttezza grammaticale** ✍️  
 - **Coerenza narrativa** 📖  
 - **Fluidità** 🌊  
 - **Riduzione delle ripetizioni** 🔄
-  
-![[Grafico a Colonne](./DATA-AI_Graphic1.jpg)]
 
-![[Grafico Radar](./DATA-AI_Graphic2.jng)]
-I risultati hanno dimostrato che **DATA-AI_Chat_3_0.5B_Q4_K_M** si distingue per la sua capacità di generare testi più creativi e coerenti rispetto ai competitor.  
+![Grafico a Colonne](./DATA-AI_Graphic1.jpg)
+
+![Grafico Radar](./DATA-AI_Graphic2.jpg)
+
+I risultati hanno dimostrato che **DATA-AI_Chat_3_0.5B_Q4_K_M** si distingue per la sua capacità di generare testi più creativi e coerenti rispetto ai competitor.
 
 ---
 
